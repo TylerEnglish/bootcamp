@@ -12,8 +12,6 @@ Welcome to Tier 1 of our Coding Bootcamp - Data Analysis. This tier introduces y
 
 - **[Data Transformations](./Data_Transformations/main_lesson.md)**: Transform your data to suit your analytical needs. You'll work with functions to sort, filter, group, and reshape data, and understand the different types of data structures suitable for these tasks.
 
-- **[Databases](./databases/main_lesson.md)**: Gain a solid understanding of databases, including SQL databases like PostgreSQL and MySQL, and NoSQL databases like MongoDB. You'll learn how to query, update, and manage data from these databases.
-
 - **[Data Wrangling](./data_wrangling/main_lesson.md)**: Dive deeper into data preparation with data wrangling techniques. Learn how to handle outliers, merge datasets, pivot data, and more. This module prepares you to deal with the messiness of real-world data and convert it into a format that is easier to analyze.
 
 Each module will have a `main_lesson.md` file linking to individual lesson files, as well as practice problems and homework assignments with solutions. This ensures that you learn and apply these concepts practically. Remember, the best way to learn data analysis is by doing - you'll be working hands-on with actual datasets, extracting insights, and visualizing your findings.
