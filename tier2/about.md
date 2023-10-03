@@ -4,7 +4,7 @@ Welcome to Tier 2 of our Coding Bootcamp - Machine Learning/AI. This tier propel
 
 - **[Machine Learning Basics](./Basics/main_lesson.md)**: Kickstart your journey into machine learning with an overview of its fundamental concepts. Learn about supervised and unsupervised learning, regression, classification, and clustering, along with the main algorithms used in these methods.
 
-- **[K-Nearest Neighbors (KNN)](./KNN/main_lesson.md)**: Explore the KNN algorithm, a simple yet powerful classification algorithm that works on the principle of similarity measures. You'll delve into its working, applications, and limitations.
+- **[K-Nearest Neighbors (KNN) and Linear Regression](./KNN/main_lesson.md)**: Dive into the KNN algorithm, a simple yet powerful classification algorithm that works on the principle of similarity measures, and explore the foundational Linear Regression technique. You'll delve into their workings, applications, and limitations.
 
 - **[Decision Trees and Random Forests](./Trees_Forest/main_lesson.md)**: Understand the concept of decision trees and their ensemble version - Random Forests. You'll study their structure, working, and learn how they're used for both classification and regression tasks.
 
